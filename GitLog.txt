@@ -1,0 +1,36 @@
+* commit 96797605fbcf1162605f16ca8da4d82d26daee34
+| Author: TijannicGithub <tsc160@miami.edu>
+| Date:   Wed Oct 15 14:28:21 2025 -0400
+| 
+|     Update message to 'Hello Crazy World!
+|   
+*   commit ba92252a2b40d59808d52e994a803d40276014e9
+|\  Merge: 0700ecc 8c22738
+| | Author: TijannicGithub <tsc160@miami.edu>
+| | Date:   Wed Oct 15 14:21:51 2025 -0400
+| | 
+| |     Finalize merg: Hello Very Happy World!
+| | 
+| * commit 8c22738f1e6e706158f9031f103a2ef9f5fe37e6
+| | Author: TijannicGithub <tsc160@miami.edu>
+| | Date:   Wed Oct 15 14:11:57 2025 -0400
+| | 
+| |     Change message to 'Hello Happy World!
+| | 
+* | commit 0700ecc93c7ed9de3ec47ab91c162df16ff25fdc
+|/  Author: TijannicGithub <tsc160@miami.edu>
+|   Date:   Wed Oct 15 14:14:23 2025 -0400
+|   
+|       Updated message to 'Hello Very Crool World
+| 
+* commit 297f2e1c15121893bb9fa73b60c69259f5d3f4aa
+| Author: TijannicGithub <tsc160@miami.edu>
+| Date:   Wed Oct 15 14:09:23 2025 -0400
+| 
+|     Update message to 'Hello Crool World!
+| 
+* commit eed3f75cbfc5a50901c269e528c30c16b927c524
+  Author: TijannicGithub <tsc160@miami.edu>
+  Date:   Wed Oct 15 13:53:54 2025 -0400
+  
+      Initial commit: Hello World!
